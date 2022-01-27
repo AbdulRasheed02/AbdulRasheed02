@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 I am an Application Developer at Spider, the R&D Club of NIT Trichy. Currently working on cross-platform mobile applications in React Native.
 
-![Abdul Rasheed's github stats](https://github-readme-stats.vercel.app/api?username=AbdulRasheed02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&hide=issues,stars,contribs)
+![Abdul Rasheed's Github stats](https://github-readme-stats.vercel.app/api?username=AbdulRasheed02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&hide=issues,stars,contribs)
+[![Abdul Rasheed's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRasheed02&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
